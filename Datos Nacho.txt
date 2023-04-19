@@ -22,3 +22,23 @@ Habilidades Cognitivas:
 - Comprension lectora
 
 - Razonamiento
+
+		Comandos del git
+
+git init 
+
+git config --global user.name""
+
+git config --global user.email""
+estos comandos sirven para configurar tu cuenta de github
+
+
+git remote add origin https://github.com/IgnacioForno/Nacho -- lo use para agregar el repositorio remoto
+
+git add . -- lo use para seleccionar el archivo que queria subir
+
+git commit -m "primer repo" --
+
+git status -- lo use para ver el estado de la carpeta, para ver si ya se habia subido
+
+git push origin master -- lo use para subirlo al github
